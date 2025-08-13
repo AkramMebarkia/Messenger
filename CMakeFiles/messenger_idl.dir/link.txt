@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmessenger_idl.a CMakeFiles/messenger_idl.dir/opendds_generated/messenger_idl/MessengerTypeSupportImpl.cpp.o CMakeFiles/messenger_idl.dir/opendds_generated/messenger_idl/MessengerC.cpp.o CMakeFiles/messenger_idl.dir/opendds_generated/messenger_idl/MessengerTypeSupportC.cpp.o
+/usr/bin/ranlib libmessenger_idl.a
